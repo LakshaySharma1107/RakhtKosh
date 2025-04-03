@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# RakhtKosh
+# RakhtSeva
+
 =======
 # React + Vite
 
